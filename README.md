@@ -1,4 +1,4 @@
-# gulf_sturgeon_mortality
+# gulf_sturgeon_telemetry_CJFAS2014
 Multi-state mark-recapture model to estimate Gulf sturgeon movement and mortality rates in the Gulf of Mexico. 
 
 Study published in CFJAS with 3 years of telemetry data:
